@@ -3,7 +3,7 @@ Chronos Microservice Debugger consists of an npm package with an optional Electr
 
 ## Install
 ```javascript
-npm install chronos-microservice-debugger
+npm install chronos-microservice-debugger2
 ```
 
 ## Usage
